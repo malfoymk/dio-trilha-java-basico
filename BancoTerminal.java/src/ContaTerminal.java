@@ -14,7 +14,7 @@ public class ContaTerminal {
         String agency = scanner.nextLine();
 
         System.out.print("Digite o nome do titular: ");
-        String accountHolder = scanner.nextLine();
+        String accountHolder = scanner.nextLine().toUpperCase();
 
         System.out.print("Digite o saldo da conta: ");
         double balance = Double.parseDouble(scanner.nextLine());
