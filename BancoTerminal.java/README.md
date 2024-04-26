@@ -1,18 +1,35 @@
-## Getting Started
+# Dio - Trilha Java Básico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Sintaxe - Desafio
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Desenvolvendo o desafio do DIO de sintaxe:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Crie um Projeto ```ContaBanco``` que receberá dados via terminal contendo as características de conta em banco:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+2. Dentro do projeto, crie a classe ```ContaTerminal.java``` para realizar toda a codificação do nosso programa.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+__No terminal traga por exemplo:__
+
+-   Programa: "Digite o número da Conta: "
+-   Usuário: 1021 *(Depois ENTER para o próximo campo)*
+
+
+__Após isso__
+
+Traga um retorno do sistema indicando:
+
+- Conta
+- Agência
+- Nome do Cliente
+- Saldo
+
+*"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
+
+
+### Segue meu perfil para contato:
+
+[![Perfil Dio](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/lopes_patrick4)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lopes-mk3510/)
+
